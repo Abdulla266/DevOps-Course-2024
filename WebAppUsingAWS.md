@@ -14,9 +14,6 @@ used it to deploy multiple complex apps, so it handles many things that
 you will need, but it's also flexible enough to be tweaked when necessary for
 special requirements. It represents months of work.
 
-The blog post
-[Deploying complex apps to AWS with Terraform, Ansible, and Packer](https://www.cogini.com/blog/deploying-complex-apps-to-aws-with-terraform-ansible-and-packer/)
-gives an example.
 
 # Scenarios
 
