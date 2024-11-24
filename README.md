@@ -4,6 +4,11 @@ Welcome to the **DevOps Course 2024** repository! This repository provides a sum
 
 ---
 
+## 📄 My CV
+You can view my CV [here](file:///C:/Users/HP/Desktop/CV.pdf).
+
+---
+
 ## 🔹 Key Highlights of the Blog
 
 ### 1. **Simplifying Kubernetes Infrastructure with Terraform**
