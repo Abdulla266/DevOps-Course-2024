@@ -1,17 +1,13 @@
-This is an example of how to deploy a real-world complex web app to AWS.
+# Deployment of Web App using AWS
 
-Full-featured apps in languages like Ruby on Rails have multiple components,
-e.g. web front end, background job handler, periodic jobs, maybe a separate
-server to handle API traffic or web sockets. They use a relational database,
-Redis or Memcached, Elasticsearch, CDN for static assets, SSL, S3 buckets,
-encryption.  They need logging, metrics, and alerting.
+This document provides a framework for deploying a real-world complex web app on AWS. By leveraging tools like Terraform, Ansible, and Packer, you can automate the setup and deployment process. This guide covers essential topics such as autoscaling, CI/CD pipelines, and AWS managed services.
 
-They run in an autoscaling group or ECS and use a CI/CD pipeline to handle
+Many applications run in an autoscaling group or ECS and use a CI/CD pipeline to handle
 blue/green deployment. They need to run in multiple environments: dev, staging,
 prod, demo, with slight differences for each. They have some weird things to
 integrate with partners.
 
-This framework handles all that :-)
+This framework handles all that
 
 It's built in in a modular way using Terraform, Ansible and Packer. We have
 used it to deploy multiple complex apps, so it handles many things that
