@@ -57,7 +57,6 @@ as RDS or Redis. Supports both GitHub and CodeCommit.
 * Spot instances to reduce cost
 * Multiple deploy targets
 * Manual approval process
-* Notifications
 
 ## Containers running in ECS
 
@@ -72,11 +71,6 @@ Worker runs background tasks in an ASG, with its own build and deploy pipeline.
 
 Route traffic between web apps using the Load Balancer, e.g. separate
 servers for API, customer admin, back end admin.
-
-## S3 buckets
-
-* Share data between apps using S3 buckets with access control
-* Use signed URLs to handle protected user content
 
 ## Static website
 
