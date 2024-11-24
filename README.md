@@ -2,12 +2,6 @@
 
 Welcome to the **DevOps Course 2024** repository! This repository provides a summary of two essential topics in modern DevOps practices: automating Kubernetes infrastructure with Terraform and integrating security into DevOps using DevSecOps. These methodologies are fundamental for building efficient, scalable, and secure software workflows.
 
----
-
-## 📄 My CV
-You can view my CV [here](https://github.com/Abdulla266/DevOps-Course-2024/blob/main/CV-image.png).
-
----
 
 ## 🔹 Key Highlights of the Blog
 
