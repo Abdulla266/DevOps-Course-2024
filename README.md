@@ -5,7 +5,7 @@ Welcome to the **DevOps Course 2024** repository! This repository provides a sum
 ---
 
 ## 📄 My CV
-You can view my CV [here](https://github.com/Abdulla266/DevOps-Course-2024/blob/main/CV.pdf).
+You can view my CV [here](https://github.com/Abdulla266/DevOps-Course-2024/blob/main/CV-image.png).
 
 ---
 
